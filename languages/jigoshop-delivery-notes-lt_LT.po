@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: „Jigoshop“ pristatymo pastabos\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-03 16:11+0100\n"
+"PO-Revision-Date: 2013-04-14 19:23+0200\n"
+"Last-Translator: Rytis <rytis.st@gmail.com>\n"
+"Language-Team: Rytis <Rytis <rytis.st@gmail.com>>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: lt_LT\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:84
+msgid "Delivery Notes"
+msgstr "Pristymo pastabos"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:96
+msgid "View &amp; Print Delivery Note"
+msgstr "Peržiūrėti ir spausdinti pristatymo pastabą"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:106
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:143
+msgid "Delivery Notes Settings"
+msgstr "Pristatymo pastabų nustatymai"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:117
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-print.php:12
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Jūs neturite pakankamai teisių patekti į šį puslapį."
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:137
+msgid "Settings saved."
+msgstr "Nustatynai išsaugoti."
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:151
+msgid "Address:"
+msgstr "Adresas:"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:155
+msgid ""
+"The postal address of the company, maybe add some other contact information "
+"like the telephone and email."
+msgstr ""
+"Įmonės pašto adresas, galima pridėti kitą kontaktinę informaciją, tokią kaip "
+"telefonas ar el. paštas."
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:156
+msgid "Terms & Conditions:"
+msgstr "Terminai ir sąlygos:"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:156
+msgid ""
+"The terms & conditions to inform the customer about the agreements of a "
+"purchase."
+msgstr "Terminai ir sąlygos informuojantys užsakovą apie pirkimo susitarimus."
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:156
+msgid "Personal Note:"
+msgstr "Asmeninė pastaba:"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:156
+msgid "The personal notes to thank the customer and sign with your name."
+msgstr "Asmeninė pastaba padėkojanti užsakovui ir vardo pasirašymas."
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:160
+msgid "Returns Policy:"
+msgstr "Grąžinimo politika:"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:164
+msgid ""
+"The returns policy in case the client would like to send back some goods."
+msgstr "Grąžinimo politika jei klientas norėtų grąžinti kai kurias prekes."
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:164
+msgid "Refunds:"
+msgstr "Išmokos grąžinimas:"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/jigoshop-delivery-notes-classes.php:164
+msgid ""
+"The refunds policy in case the customer would like to send back some goods."
+msgstr ""
+"Išmokos grąžinimo politika jei klientas norėtų grąžinti kai kurias prekes."
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:5
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:25
+msgid "Delivery Note"
+msgstr "Pristatymo pastaba"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:18
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:115
+msgid "Print"
+msgstr "Spausdinti"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:43
+msgid "Order"
+msgstr "Užsakymas"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:47
+msgid "Date"
+msgstr "Data"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:58
+msgid "Name"
+msgstr "Vardas"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:59
+msgid "Quantity"
+msgstr "Kiekis"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:60
+msgid "Price"
+msgstr "Kaina"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:77
+msgid "Subtotal"
+msgstr "Tarpinė suma"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:82
+msgid "Shipping"
+msgstr "Pristatymas"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:88
+msgid "Tax"
+msgstr "Mokestis"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:94
+msgid "Discount"
+msgstr "Nuolaida"
+
+#: /Users/negro/Projekte/negro/2010
+#: feinkost/programming/current/wp-content/plugins/jigoshop-delivery-notes/delivery-note/template.php:99
+msgid "Grand Total"
+msgstr "Bendra suma"
